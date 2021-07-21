@@ -5,7 +5,7 @@ Amino wiki spammer/Бот для спама комментариев в Вики
 - apt update
 - apt upgrade
 - pip install colorama
-- pip install amino.py
+- pip install amino.py==1.2.17
 - apt install git
 - git clone https://github.com/LilZevi/AminoWikiSpam
 - Для запуска/For starting
