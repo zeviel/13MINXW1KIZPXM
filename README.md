@@ -1,11 +1,11 @@
 # AminoWikiSpam
-Amino wiki spammer/Бот для спама комментариев в Вики(Статье)
+Amino wiki comment spammer/Бот для спама комментариев в Вики(Статье)
 Этот бот был создан для спама комментариев на статье Амино/This bot was created to spam comments on an wiki Amino
 # Termux
 - apt update
 - apt upgrade
 - pip install colorama
-- pip install amino.py==1.2.17
+- pip install amino.py
 - apt install git
 - git clone https://github.com/LilZevi/AminoWikiSpam
 - Для запуска/For starting
