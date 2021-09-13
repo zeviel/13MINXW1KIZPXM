@@ -14,7 +14,7 @@ comment = input("Comment >> ")
 wiki_info = client.get_from_link(input("Wiki Link >> "))
 wiki_id = wiki_info.object_Id; ndc_Id = wiki_info.ndc_Id
 while True:
-		try:
-			client.submit_comment(ndc_Id=ndc_Id, message=comment, wiki_Id=wiki_id)
-			print("Sended Comment")
-		except Exception as e:	print(e)
+	try:
+		client.submit_comment(ndc_Id=ndc_Id, message=comment, wiki_Id=wiki_id)
+		print("Sended Comment")
+	except Exception as e:	print(e)
