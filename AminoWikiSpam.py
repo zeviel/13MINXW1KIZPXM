@@ -2,7 +2,7 @@ import amino
 from colorama import init, Fore
 from pyfiglet import figlet_format
 init()
-print("""{Fore.GREEN}
+print(f"""{Fore.GREEN}
 Script by deluvsushi
 Github : https://github.com/deluvsushi""")
 print(figlet_format("aminowikispam", font="shadow"))
