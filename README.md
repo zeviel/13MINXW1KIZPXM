@@ -1,14 +1,15 @@
 # AminoWikiSpam
-AminoWikiSpam/Wiki Comment Spam Bot For Amino
+AminoWikiSpam|Wiki comment spam bot for amino
 
-# Termuz
+## Termux
+```shell
 - apt update
 - apt upgrade
+- pip install amino.py
 - pip install colorama
-- pip install AminoLab
 - pip install pyfiglet
 - apt install git
 - git clone https://github.com/deluvsushi/AminoWikiSpam
-- Для запуска/For starting
 - cd AminoWikiSpam
 - python AminoWikiSpam.py
+```
