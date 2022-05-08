@@ -5,7 +5,7 @@ init()
 print(f"""{Fore.GREEN}
 Script by deluvsushi
 Github : https://github.com/deluvsushi""")
-print(figlet_format("aminowikispam", font="shadow"))
+print(figlet_format("13MINXW1KIZPXM", font="shadow"))
 client = amino.Client()
 email = input("-- Email::: ")
 password = input("-- Password::: ")
