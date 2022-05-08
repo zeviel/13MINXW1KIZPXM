@@ -1,5 +1,5 @@
-# AminoWikiSpam
-AminoWikiSpam|Wiki comment spam bot for amino
+# 13MINXW1KIZPXM
+Wiki comment spam bot for amino
 
 ## Termux
 ```shell
@@ -9,7 +9,7 @@ AminoWikiSpam|Wiki comment spam bot for amino
 - pip install colorama
 - pip install pyfiglet
 - apt install git
-- git clone https://github.com/deluvsushi/AminoWikiSpam
-- cd AminoWikiSpam
-- python AminoWikiSpam.py
+- git clone https://github.com/deluvsushi/13MINXW1KIZPXM
+- cd 13MINXW1KIZPXM
+- python 13MINXW1KIZPXM.py
 ```
