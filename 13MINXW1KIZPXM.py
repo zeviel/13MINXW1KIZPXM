@@ -3,8 +3,8 @@ from colorama import init, Fore
 from pyfiglet import figlet_format
 init()
 print(f"""{Fore.GREEN}
-Script by deluvsushi
-Github : https://github.com/deluvsushi""")
+Script by zeviel
+Github : https://github.com/zeviel""")
 print(figlet_format("13MINXW1KIZPXM", font="shadow"))
 client = amino.Client()
 email = input("-- Email::: ")
