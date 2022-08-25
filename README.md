@@ -9,7 +9,7 @@ Wiki comment spam bot for amino
 - pip install colorama
 - pip install pyfiglet
 - apt install git
-- git clone https://github.com/deluvsushi/13MINXW1KIZPXM
+- git clone https://github.com/zeviel/13MINXW1KIZPXM
 - cd 13MINXW1KIZPXM
 - python 13MINXW1KIZPXM.py
 ```
